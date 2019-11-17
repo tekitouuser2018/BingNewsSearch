@@ -2,6 +2,11 @@
 
 - What is this?
   - This is a responsive page that Bing News displayed.
+- What is used?
+  - Node.js
+  - Vue.js
+  - VueCLI
+  - Bing Search News API
 
 - How to use.
 1. Important!!  You should have a Bing Search API KEY.(You need Azure account.)
