@@ -11,6 +11,5 @@ http.createServer(function (req, res) {
     re = JSON.stringify(sr.getNews());
     console.log("----------return from 8080-----------");
     console.log(re);
-    // res['Access-Control-Allow-Origin'] = 'localhost:8081'
     res.end(re);
 }).listen(8080);
