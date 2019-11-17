@@ -1,10 +1,10 @@
 # BingNewsSearch
 
 - What is this?
-This is a responsive page that Bing News display.
+ - This is a responsive page that Bing News displayed.
 
 - How to use.
-1. Important!:You should have a Bing Search API KEY.(You need Azure account.)
+1. Important!!  You should have a Bing Search API KEY.(You need Azure account.)
 
 2. git clone
 
